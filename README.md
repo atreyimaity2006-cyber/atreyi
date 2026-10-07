@@ -24,7 +24,7 @@ I’m a **second-year BSc Biotechnology student** building a multidisciplinary p
 
 My academic foundation spans **molecular biology, microbiology, genetics, cell biology, biochemistry, enzymology, food technology, sustainable development and bioinformatics**. Alongside biotechnology, I’m exploring **web development, open-source software, JavaScript, Python, embedded systems and robotics**.
 
-I enjoy learning by turning ideas into practical projects — from laboratory-based molecular techniques to technology-driven solutions for real-world problems in **healthcare, agriculture and environmental sustainability**.
+I enjoy learning by turning ideas into practical projects-from laboratory-based molecular techniques to technology-driven solutions for real-world problems in **healthcare, agriculture and environmental sustainability**.
 
 > **Biology gives me the questions. Technology helps me build the solutions.**
 
